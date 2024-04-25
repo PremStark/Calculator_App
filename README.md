@@ -1,39 +1,27 @@
-# Calculator App
+# Calculator Website
 
-## Overview
-
-The Calculator App is a web application that provides basic calculator functionality for performing arithmetic operations. It features a sleek and modern design with a responsive layout, making it suitable for various screen sizes and devices.
+The Calculator Website is a modern and stylish web application designed to provide users with a sleek and user-friendly calculator experience. Crafted using HTML, CSS, and Vanilla-Tilt.js, this project incorporates the trendy Glassmorphism effect to create transparent and visually appealing design elements. Additionally, the interactive tilting effects provided by Vanilla-Tilt.js add a dynamic touch to the user interface, enhancing user engagement.
 
 ## Features
 
-- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division operations with ease.
-  
-- **Clear Functionality**: Clear the input field with a single click to start a new calculation.
-  
-- **Responsive Design**: The app is designed to adapt smoothly to different screen sizes, providing a consistent experience across devices.
-  
-- **Stylish Visuals**: Enjoy a visually appealing interface with modern styling and hover effects for interactive elements.
+- **Glassmorphism Design**: The website utilizes CSS styling to create glass-like elements, contributing to a contemporary and elegant aesthetic.
+
+- **Interactive Tilt Effects**: Vanilla-Tilt.js is integrated to apply dynamic tilting effects to elements, enhancing the overall user experience and adding an interactive dimension to the interface.
+
+- **Responsive Layout**: The website is designed with a responsive layout, ensuring compatibility across various devices and screen sizes. Users can access the calculator website seamlessly from desktops, laptops, tablets, and smartphones.
 
 ## Technologies Used
 
-- **HTML/CSS**: The frontend of the app is built with HTML for structure and CSS for styling, providing an attractive and user-friendly interface.
+- **HTML**: Provides the structure and semantic markup of the website's content.
 
-- **JavaScript**: The core functionality of the calculator is implemented using JavaScript, allowing for dynamic updates and calculations based on user input.
+- **CSS**: Implements styling and visual effects, including Glassmorphism design elements and responsive layout adjustments.
 
-## Usage
-
-To use the Calculator App:
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
-3. Use the calculator buttons to input numbers and perform arithmetic operations.
-4. Click the "CL" button to clear the input field and start a new calculation.
+- **Vanilla-Tilt.js**: Adds interactive tilt effects to designated elements, enhancing user interactivity and engagement.
 
 ## Preview
 
-![Calculator App Preview](Cal.png)
+![Calculator Website Preview](Cal.png)
 
-## Credits
+## Contributing
 
-- Gradient background and clip-path shapes provided by [CSS Gradient](https://cssgradient.io/).
-- Icons provided by [Font Awesome](https://fontawesome.com/).
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions can help improve the Calculator Website and make it even better for users.
