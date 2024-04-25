@@ -31,7 +31,7 @@ To use the Calculator App:
 
 ## Preview
 
-![Calculator App Preview](preview.png)
+![Calculator App Preview](Cal.png)
 
 ## Credits
 
